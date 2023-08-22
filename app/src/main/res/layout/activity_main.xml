@@ -27,7 +27,9 @@
             android:id="@+id/tv2"
             android:layout_width="match_parent"
             android:layout_height="238dp"
-            android:text="TextView" />
+            android:text="TextView"
+
+            />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
